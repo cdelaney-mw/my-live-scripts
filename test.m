@@ -2,7 +2,7 @@ function test()
     plot(1:10,1:10, 'r');
 end
 
-% Run the code section below to plot an image of a rose in jet
+% Run the code section below to plot an image of a rose
 p=pi;
 [R,T]=ndgrid(linspace(0,1,n),linspace(-2,20*p,n));
 x=1-(.5)*((5/4)*(1-mod(3.6*T,2*p)/p).^2-.25).^2;
