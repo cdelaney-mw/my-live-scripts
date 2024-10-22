@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 line 1 - first line!
 line 2
 line3
-=======
-line 0
-line 1
-line 2
-line 3
->>>>>>> parent of d614273 (changes to TXT and MLX)
+
