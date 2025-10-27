@@ -1,3 +1,3 @@
 function foo
-  return 42
+  return 4
 end
